@@ -1,2 +1,2 @@
 # mintechSlider
-Mintech using Owl Carousel Slider
+Medical supply e-commerce website using Owl Carousel Slider
